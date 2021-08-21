@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "serve": "tsc -w"
+  },
+  "dependencies": {
+    "typescript": "^4.3.5"
+  }
+}
